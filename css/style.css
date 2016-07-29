@@ -1,0 +1,89 @@
+#container{
+margin: 0px auto;
+
+}
+
+
+#top ul{
+
+	 margin: 0;
+	 padding: 0;
+	 
+	 overflow: hidden;
+	position: absolute;
+	right: 30px;
+}
+
+ul{
+	list-style-type: none;
+}
+
+#top li{
+float: left;
+padding: 0 0 0 10;
+}
+
+#top li a{
+display: block;
+text-align: center;
+padding:5 5;
+text-decoration: none;
+}
+
+.nar_text a:hover{
+color: black;
+}
+
+.google-logo{
+position: absolute;
+right: 490px;
+top: 200px;
+
+}
+
+.form{
+position: absolute;
+top: 325;
+left: 350;
+width: 100;
+
+
+}
+.form input{
+	height: 40;
+}
+
+.form input a:hover{
+
+}
+
+.button{
+position: absolute;
+top:400px;
+left: 500px;
+width: 300;
+
+}
+.button {
+
+width: 1000;
+	
+	
+	
+}
+
+.botton li{
+float: left;
+}
+
+.botton li button{
+	display: inline;
+	text-align: center;
+}
+
+#bottom{
+background-color: gray;
+position: absolute;
+bottom: 0;
+
+}
